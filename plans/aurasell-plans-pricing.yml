@@ -1,0 +1,16 @@
+generated: '2026-09-26'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.aurasell.ai/pricing
+sources:
+- https://www.aurasell.ai/pricing
+name: Aurasell pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Startup
+  price_text: $15k annual platform fee and 3m AI credits included. $15,000/year
+  price: 15000
+  description: No need to count users with Aurasell’s startup pricing
+note: Other tiers (SMB, Mid-market & Enterprise) are custom with no listed price, thus considered negotiated.
+docs: https://www.aurasell.ai/pricing

@@ -1,23 +1,98 @@
 aid: aurasell
+
 name: Aurasell
-description: 'Aurasell is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/6943823083ffa5d7dc3d96ea/697325e768adbb01d5c046a9_og-image.avif
+
+description: Aurasell is an AI‑native sales and go‑to‑market platform that provides a unified operating system for modern sales teams. It combines
+  a CRM, AI‑driven prospecting, deal management, and automation tools into a single cloud service. The platform offers features such as Agent
+  Builder for rapid GTM agent creation, AI‑native GTM OS, integrations with existing stacks, pricing plans, case studies, and a community hub.
+  Aurasell aims to replace fragmented sales tools with an intelligent, end‑to‑end solution for operators and enterprises.
+
 url: https://raw.githubusercontent.com/api-evangelist/aurasell/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- AI
+- Sales
+- CRM
+- Platform
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/aurasell-plans-pricing.yml
+- type: Compliance
+  url: https://trust.aurasell.ai/
+- type: LLMsTxt
+  url: llms/aurasell-llms.txt
+- type: SecurityTxt
+  url: well-known/aurasell-status-security.txt
+- type: WellKnown
+  url: well-known/aurasell-well-known.yml
+- type: Hosts
+  url: hosts/aurasell-hosts.yml
+- type: Vendors
+  url: vendors/aurasell-vendors.yml
+- type: Support
+  url: https://support.aurasell.ai/help
+- type: StatusPage
+  url: https://status.aurasell.ai/
+- type: ChangeLog
+  url: https://support.aurasell.ai/changelog
+- type: TrustCenter
+  url: security/aurasell-trust-center.yml
+- type: DomainSecurity
+  url: security/aurasell-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.aurasell.ai/
+- type: Blog
+  url: https://www.aurasell.ai/blog
+- type: Pricing
+  url: https://www.aurasell.ai/pricing
+- type: PrivacyPolicy
+  url: https://www.aurasell.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.aurasell.ai/website-terms-of-use
+- type: Trust
+  url: https://www.aurasell.ai/trust
+
+apis:
+- name: Aurasell API
+  description: API documented at the support site, but no machine‑readable contract found.
+  humanURL: https://support.aurasell.ai/changelog
+  baseURL: null
+  aid: aurasell:aurasell-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Support site renders docs via JavaScript, no OpenAPI spec discovered.
+  evidence:
+  - url: https://support.aurasell.ai/changelog
+    status: 200
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

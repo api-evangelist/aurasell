@@ -1,0 +1,110 @@
+# Aurasell
+
+> Aurasell is an AI-native go-to-market (GTM) platform that unifies the entire revenue lifecycle — prospect, sell, manage, and operate — into a single intelligent system. Aurasell either replaces legacy CRMs (Salesforce, HubSpot, Zoho) for startups and SMBs, or layers an AI-native GTM Operating System on top of an existing CRM for mid-market and enterprise teams.
+
+## What Aurasell does
+
+Modern sales teams juggle 15+ disconnected tools — territory management, account intelligence, sequencing, conversational intelligence, CPQ, forecasting, dashboards — creating data silos, context switching, and admin overhead. Industry data Aurasell cites: 91% of organizations miss sales quota, 70% of rep time is lost to admin work, and only 30% of B2B reps hit quota.
+
+Aurasell consolidates these capabilities into a single AI-native platform built on a unified data model, with the stated outcomes of:
+
+- 80% reduction in manual tasks across the sales cycle
+- 35% increase in sales velocity
+- 50% reduction in ramp time
+- 2x increase in selling capacity
+
+The platform organizes around four motions: **Prospect, Sell, Manage, Operate.**
+
+## Two deployment paths
+
+Aurasell offers two ways to adopt the platform depending on company stage:
+
+1. **AI-Native GTM Platform** (startups & SMB): Aurasell becomes the GTM platform, built on an Intelligent CRM. Replaces Salesforce, HubSpot, or Zoho.
+2. **AI-Native GTM OS** (mid-market & enterprise): Aurasell layers on top of an existing Salesforce or HubSpot CRM as an AI-powered GTM operating system, no rip-and-replace required.
+
+## Core capabilities
+
+**Prospect**
+- ICP-fit account sourcing
+- Contact enrichment and buyer persona intelligence
+- Context-driven value pyramids and hypotheses
+- AI-personalized outreach
+- AI intent and signal capture
+- 84M+ account database, 950M+ contact database
+
+**Sell**
+- AI-personalized emails and call prep
+- Smart autofill
+- AI-driven opportunity management
+- Integrated sales frameworks (MEDDPICC, BANT)
+- Automated coaching
+- Conversational intelligence
+- AI-powered CPQ (Configure, Price, Quote)
+
+**Manage**
+- CPQ and quote-to-close
+- Sales framework templates
+- Auto-captured tasks and engagement
+- Deal rollups with live forecasting
+- CRO-level deal and skill coaching
+- Flexible dashboards and analytics with no separate BI tool required
+
+**Operate**
+- End-to-end agent configuration and customization
+- Custom AI workflows
+- Enterprise-grade access controls
+- Flexible team hierarchies
+- Customizable dashboards and reporting
+
+## Tools consolidated into the platform
+
+Territory Management, Account Intelligence, Contact Intelligence, Forecast Scenario Modeling, Insights and Analytics, Signal Enrichment, Opportunity Management, Business Value Assessment, Intelligent Quoting, Workflow Automation, Sequencing, Lead Routing, Conversational Intelligence, Value Sales Framework Automation, Deal AI Coaching, and Voice Dialer.
+
+## Architecture and trust
+
+- 99.9% uptime SLA
+- Unified data model across customer and sales data
+- Enterprise-grade encryption and access controls
+- 220+ native integrations across ticketing (Jira, Asana, Salesforce Cloud Service), file storage (Google Drive, OneDrive, Dropbox, Box), accounting (Freshbooks, QuickBooks, Xero, Zoho Books), productivity (Google Calendar, Gmail, Slack, Zoom), CRM signals (Pipedrive, SugarCRM, MS Dynamics 365 Sales), and telemetry (Google Analytics, RB2B, PostHog, Amplitude)
+
+## Customers
+
+Aurasell's customer logos include Xerox, Cast AI, MobiClocks, Avo Automation, TCI Transportation, Revlogic, Next47, UniFi, Diligent, CrewAI, Cymulate, Gambit Security, Smallest AI, Quantum, TrustCloud, Motive, Impala AI, Fetch.ai, Kurrent, Aria, Outpave, Kayos, Pipeshift, Autoheal, Zep AI, LazyDyn, Ohio University, Marechaux Consulting, Adfairy, Matter Haul, Dalen, and Prae.
+
+## Leadership
+
+CEO: Jason Eubanks.
+
+## Key links
+
+### Product
+- [AI-Native GTM Platform](https://www.aurasell.ai/ai-crm-and-gtm) — One AI-native GTM platform built on an intelligent CRM, replacing Salesforce, HubSpot, or Zoho. Covers System of Record, Built-in Intelligence (forecasting, analytics, sequencing, enrichment), Revenue Execution (built-in CPQ), and one system across the full revenue lifecycle.
+- [AI-Native GTM OS](https://www.aurasell.ai/ai-native-gtm-os) — Layers an AI-powered GTM operating system on an existing Salesforce or HubSpot CRM.
+- [Integrations](https://www.aurasell.ai/integrations) — Catalog of 220+ integrations.
+- [ROI Calculator (Beta)](https://www.aurasell.ai/calculator) — Quantify productivity and cost savings from consolidation.
+- [Pricing](https://www.aurasell.ai/pricing) — Plan tiers.
+
+### Solutions
+- [Prospect](https://www.aurasell.ai/use-case/prospect) — Pipeline generation with account intelligence, AI prospecting, sequences, and AI insights.
+- [Sell](https://www.aurasell.ai/use-case/sell) — Agentic intelligence, AI-powered CPQ, and conversational intelligence to accelerate close.
+- [Manage](https://www.aurasell.ai/use-case/manage) — CRO-level coaching, live forecasting, and scenario planning.
+
+### Company
+- [Company](https://www.aurasell.ai/company) — Mission, team, and product philosophy.
+- [Careers](https://www.aurasell.ai/careers) — Open roles.
+- [Trust](https://www.aurasell.ai/trust) — Security, compliance, and reliability posture.
+- [Blog](https://www.aurasell.ai/blog) — Product updates, customer stories, and category thinking on AI-native GTM.
+
+### Legal
+- [Privacy Policy](https://www.aurasell.ai/privacy-policy)
+- [Terms & Conditions](https://www.aurasell.ai/terms-and-conditions)
+- [Cookie Policy](https://www.aurasell.ai/cookie-policy)
+- [Bug Bounty](https://www.aurasell.ai/bug-bounty)
+
+### Social
+- LinkedIn: https://www.linkedin.com/company/aurasell/
+- X (Twitter): https://x.com/aurasellai
+
+## Positioning summary
+
+Aurasell's category claim is the **AI-Native GTM Platform** — a category distinct from legacy CRM (Salesforce, HubSpot), sales engagement (Outreach, Salesloft), conversational intelligence (Gong, Chorus), CPQ (Salesforce CPQ, DealHub), and forecasting (Clari, BoostUp). Rather than being one of those tools, Aurasell consolidates the work they do into a single AI-native system built on a unified data model, with native AI agents handling research, outreach, call prep, note-taking, quoting, coaching, and forecasting work that reps would otherwise do manually across multiple tools.
