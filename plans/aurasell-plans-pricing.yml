@@ -14,3 +14,16 @@ plans:
   description: No need to count users with Aurasell’s startup pricing
 note: Other tiers (SMB, Mid-market & Enterprise) are custom with no listed price, thus considered negotiated.
 docs: https://www.aurasell.ai/pricing
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units: []
+  plans:
+  - name: Startup
+    access: other
+    model: subscription
+    model_how: derived
+    units: []
+    periods: []
